@@ -23,8 +23,18 @@ Write pseudo code that will perform the following.
 
 a) Read in 5 separate numbers.   
 b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
 
 Enter 5 numbers randomly
-add all numbers to receive a total number
-Divide the total by 5
-The result of the division is the average
+Print smallest of the 5 numbers and mark it "smallest number"
+Result = smallest number
+Print largest of the 5 numbers and mark it "largest number"
+Result = largest number
+add all 5 numbers to receive a total number
+Divide the total number by 5
+The result of the division is the average of the 5 numbers
+
+
+
+-- END --
